@@ -1,0 +1,41 @@
+.results-container {
+    background-color: #1F1E33;
+    padding: 0 30px;
+    text-align: center;
+}
+
+.results-container h1 {
+    color: #fff;
+    padding-top: 20px;
+}
+
+.results-container p {
+    color: #ddd;
+    margin: 20px;
+}
+
+.results-container button {
+    background-color: #E03E36;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 15px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.good {
+    color: #12db32;
+}
+
+.low {
+    color: #dbce12;
+}
+
+.medium {
+    color: #db6212;
+}
+
+.high {
+    color: #db1912;
+}
